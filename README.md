@@ -21,5 +21,6 @@ It uses linked lists to store each digit separately, enabling operations on larg
 1. Compile the code:
    ```bash
    gcc *.c -o apc.out
-
+   ./apc.out
+   
 ---
