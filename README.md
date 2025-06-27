@@ -1,3 +1,5 @@
+---
+
 # Arbitrary Precision Calculator
 
 ## Description
@@ -18,4 +20,6 @@ It uses linked lists to store each digit separately, enabling operations on larg
 ## How to Run
 1. Compile the code:
    ```bash
-   gcc big_number_calc.c -o big_number_calc
+   gcc *.c -o apc.out
+
+---
