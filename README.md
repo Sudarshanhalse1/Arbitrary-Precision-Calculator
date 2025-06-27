@@ -1,11 +1,3 @@
-
----
-
-## ✅ 7. Arbitrary Precision Calculator
-
-```markdown
-# Arbitrary Precision Calculator
-
 ## Description
 A C program that performs calculations on very large numbers that cannot be handled by standard data types.  
 It uses linked lists to store each digit separately, enabling operations on large integers.
